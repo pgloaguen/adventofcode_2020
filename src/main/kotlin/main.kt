@@ -23,9 +23,10 @@ fun main() {
             executeDay(Day6())
             executeDay(Day7())
             executeDay(Day8())
+            executeDay(Day9())
         }
         println("-------")
-        println("Tous les jours in $time")
+        println("All days in $time")
     } catch (e: Exception) {
         e.printStackTrace()
     }
