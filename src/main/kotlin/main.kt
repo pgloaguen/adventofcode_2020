@@ -25,6 +25,8 @@ fun main() {
             executeDay(Day8())
             executeDay(Day9())
             executeDay(Day10())
+            executeDay(Day11())
+            executeDay(Day12())
         }
         println("-------")
         println("All days in $time")
